@@ -11,15 +11,15 @@ const products = [
        
     },
     {
-        id: 1, name:'mobile', price:80500
+        id: 2, name:'mobile', price:80500
        
     },
     {
-        id: 1, name:'watch', price:45000
+        id: 3, name:'watch', price:45000
        
     },
     {
-        id: 1, name:'tablet', price:23000
+        id: 4, name:'tablet', price:23000
        
     },
     
